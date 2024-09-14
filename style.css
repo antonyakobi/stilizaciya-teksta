@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: lightgray;
+}
+
+.box {
+    width: 450px;
+    border: 5px solid white;
+    background-color: rgb(250, 227, 21);
+}
+
+p{
+    color: brown;
+    text-align: left;
+    /* text-decoration: dotted line-through; */
+    text-transform: none;
+    text-indent: 2rem;
+    line-height: 1.2;
+    word-spacing: normal;
+    letter-spacing: normal;
+    /* word-break: break-all; */
+    hyphens: auto;
+}
+
+a {
+    text-decoration: none;
+}
